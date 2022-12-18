@@ -1,0 +1,14 @@
+.DS_Store
+*.ilg
+*.ind
+_region_.tex
+auto/*
+*.aux
+*.idx
+*.lof
+*.log
+*.lot
+*.out
+*.tex~
+*.toc
+*.aux
